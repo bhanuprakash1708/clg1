@@ -16,7 +16,7 @@ function App() {
     <div>
       <Navbar></Navbar>
       <Hero></Hero>
-      <Title subtitle='Our Program' title='What We Offer'></Title>
+      <Title subtitle='My Program' title='What We Offer'></Title>
       <Program ></Program>
       <About setplaystate={setplaystate}></About>
       <Title subtitle='Gallery' title='Campus Photos'></Title>
